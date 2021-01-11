@@ -11,11 +11,11 @@
 Homeworks and final projects of "Introduction to Machine Learning Course" given by Global AI Hub
 
 ## Requirements
-numpy 
-scikit-learn
-pandas 
-seaborn
-matplotlib
+* numpy 
+* scikit-learn
+* pandas 
+* seaborn
+* matplotlib
 
 ---
 
