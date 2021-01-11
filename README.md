@@ -1,7 +1,7 @@
 # GlobalAIHubMLCourse
 ![](img/logo.png)
 
-**Course Date:** 04-08/01/2021
+**CourseDate:** 04-08/01/2021
 **Name:** Mahir   
 **Surname:** Sarfati  
 **Email:** msarfatim@gmail.com  
